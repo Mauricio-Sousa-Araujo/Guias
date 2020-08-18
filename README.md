@@ -1,2 +1,3 @@
 # Aprendizado_Estatistico
-#Projeto em Andamento
+#Projeto no inínio e em Andamento
+#Criação de diversos laboratórios tratando sobre várias técnicas de Machine Learning. 
